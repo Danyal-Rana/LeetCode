@@ -5,20 +5,17 @@ public:
     {
         int n = nums.size();
         
-        int myIndex = 0;
+        int myNonZero = 0;
         
         for (int i=0; i<n; i++)
         {
             if (nums[i] != 0)
             {
-                nums[myIndex] = nums[i];
-                myIndex++;
+                swap (nums[i], nums[myNonZero]);
+                myNonZero++;
             }
         }
         
-        for (int i=myIndex; i<n; i++)
-        {
-            nums[i] = 0;
-        }
+        
     }
 };
