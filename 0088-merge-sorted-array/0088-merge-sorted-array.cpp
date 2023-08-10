@@ -7,13 +7,6 @@ public:
             nums1[i] = nums2[j];
         }
         
-        for (int i=0; i<m+n-1; i++)
-        {
-            for (int j=i+1; j<m+n; j++)
-            {
-                if (nums1[i] > nums1[j])
-                    swap (nums1[i], nums1[j]);
-            }
-        }
+        sort (nums1.begin(), nums1.end());
     }
 };
