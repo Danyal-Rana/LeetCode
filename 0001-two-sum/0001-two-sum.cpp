@@ -9,12 +9,10 @@ public:
             {
                 if (nums[i]+nums[j] == target)
                 {
-                    myVector.push_back(i);
-                    myVector.push_back(j);
-                    break;
+                    return {i, j};
                 }
             }
         }
-        return myVector;        
+        return {};        
     }
 };
