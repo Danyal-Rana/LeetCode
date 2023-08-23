@@ -3,7 +3,7 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> nums = [1,2,3,4,5,6,7], k = 3
+<pre><strong>Input:</strong> nums = [1,2,3,4,5,6,7], k = 3 
 <strong>Output:</strong> [5,6,7,1,2,3,4]
 <strong>Explanation:</strong>
 rotate 1 steps to the right: [7,1,2,3,4,5,6]
