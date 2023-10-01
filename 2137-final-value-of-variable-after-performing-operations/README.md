@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/final-value-of-variable-after-performing-operations">2137. Final Value of Variable After Performing Operations</a></h2><h3>Easy</h3><hr><p>There is a programming language with only <strong>four</strong> operations and <strong>one</strong> variable <code>X</code>:</p>
+<h2><a href="https://leetcode.com/problems/final-value-of-variable-after-performing-operations/?authuser=0">2137. Final Value of Variable After Performing Operations</a></h2><h3>Easy</h3><hr><p>There is a programming language with only <strong>four</strong> operations and <strong>one</strong> variable <code>X</code>:</p>
 
 <ul>
 	<li><code>++X</code> and <code>X++</code> <strong>increments</strong> the value of the variable <code>X</code> by <code>1</code>.</li>
