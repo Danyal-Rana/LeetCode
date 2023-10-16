@@ -14,8 +14,7 @@ public:
                 swap (nums[i], nums[myNonZero]);
                 myNonZero++;
             }
-        }
-        
+        }       
         
     }
 };
