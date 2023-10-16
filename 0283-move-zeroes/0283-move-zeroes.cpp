@@ -5,14 +5,14 @@ public:
     {
         int n = nums.size();
         
-        int myNonZero = 0;
+        int myZero = 0;
         
         for (int i=0; i<n; i++)
         {
             if (nums[i] != 0)
             {
-                swap (nums[i], nums[myNonZero]);
-                myNonZero++;
+                swap (nums[i], nums[myZero]);
+                myZero++;
             }
         }       
         
