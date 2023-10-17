@@ -5,17 +5,17 @@ public:
         int sSize = s.size();
         int tSize = t.size();
 
-        int i=0;
-        int j=0;
+        int i=0, j=0;
 
-        while (i<tSize && j<sSize)
+        while (i<sSize && j<tSize)
         {
-            if (s[j] == t[i])
+            if (s[i] == t[j])
             {
-                j++;
+                i++;
             }
-            i++;
+            j++;
         }
-        return  j==sSize ? 1 : 0;
+
+        return i==sSize ? true : false; 
     }
 };
