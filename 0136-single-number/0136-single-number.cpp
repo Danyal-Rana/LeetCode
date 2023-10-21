@@ -6,12 +6,13 @@ public:
 
         int i=0;
 
-        for (; i<nums.size()-1; i+=2)
+        for (; i<nums.size()-1;)
         {
             if (nums[i] != nums[i+1])
             {
                 break;
             }
+            i = i+2;
         }
         return nums[i];        
     }
