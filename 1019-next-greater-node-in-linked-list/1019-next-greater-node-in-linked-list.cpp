@@ -10,33 +10,39 @@
  */
 class Solution {
 public:
-    
-    int myFun (ListNode *t, int myVal)
-    {
-        while (t->next != NULL)
-        {
-            if (t->next->val > myVal)
-            {
-                return t->next->val;
-            }
-            t = t->next;
-        }
-        return 0;       
-        
-    }
     vector<int> nextLargerNodes(ListNode* head)
     {
-        
-        ListNode *t = head;
         vector<int> myVector;
+        vector<int> input;
+        stack<int> myStack;
         
-        while (t != NULL)
+        while (head != NULL)
         {
-            myVector.push_back (myFun(t, t->val));
-            t = t->next;
+            input.push_back (head->val);
+            head = head->next;
         }
         
+        for (int i=input.size()-1; i>=0; i--)
+        {
+            while (!myStack.empty() && myStack.top() <= input[i])
+            {
+                myStack.pop();
+            }
+            
+            if (myStack.empty())
+            {
+                myVector.push_back (0);
+            }
+            
+            else
+            {
+                myVector.push_back (myStack.top());
+            }
+            
+            myStack.push (input[i]);
+        }
         
+        reverse(myVector.begin(), myVector.end());
         return myVector;
     }
 };
