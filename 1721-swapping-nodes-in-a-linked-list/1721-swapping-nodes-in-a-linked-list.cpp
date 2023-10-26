@@ -25,16 +25,8 @@ public:
             myCounter++;
         }
         
-        ListNode *hare = dummyHead;
+        ListNode *hare = nodeFromStart;
         ListNode *nodeFromEnd = dummyHead;
-        
-        int myCounter2 = 0;
-        
-        while (myCounter2 < k)
-        {
-            hare = hare->next;
-            myCounter2++;
-        }
         
         while (hare != NULL)
         {
@@ -44,10 +36,7 @@ public:
         
         int temp = nodeFromStart->val;
         nodeFromStart->val = nodeFromEnd->val;
-        nodeFromEnd->val = temp;
-        
-        
-        
+        nodeFromEnd->val = temp;        
         
         return dummyHead->next;
     }
