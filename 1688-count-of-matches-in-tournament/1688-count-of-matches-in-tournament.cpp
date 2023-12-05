@@ -3,19 +3,18 @@ public:
     int numberOfMatches(int n)
     {
         int m = 0;
-        int t = n;
         
-        while (t != 1)
+        while (n != 1)
         {
-            m += t/2;
+            m += n/2;
             
-            if (t%2 == 0)
+            if (n%2 == 0)
             {
-                t = t/2;
+                n = n/2;
             }
             else
             {
-                t = (t/2)+1;
+                n = (n/2)+1;
             }
         }
         
