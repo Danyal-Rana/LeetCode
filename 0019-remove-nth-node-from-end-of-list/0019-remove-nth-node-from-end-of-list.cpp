@@ -18,7 +18,7 @@ public:
         ListNode *tortoise = dummyHead;
         ListNode *hare = dummyHead;
         
-        for (int i=0; i<=n; i++)
+        for (int i=1; i<=n+1; i++)
         {
             hare = hare->next;
         }
