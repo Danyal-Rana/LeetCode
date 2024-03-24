@@ -2,24 +2,20 @@ class Solution {
 public:
     int findDuplicate(vector<int>& nums)
     {
-        int slow = 0;
-        int fast = 0;
+       set<int> mySet;
         
-        do
+        for (int i=0; i<nums.size(); i++)
         {
-            slow = nums[slow];
-            fast = nums[nums[fast]];
+            int x = nums[i];
+            if (mySet.find(x) != mySet.end())
+            {
+                return x;
+            }
+            else
+            {
+                mySet.insert(x);
+            }
         }
-        while (slow != fast);
-        
-        slow = 0;
-        
-        while (slow != fast)
-        {
-            slow = nums[slow];
-            fast = nums[fast];
-        }
-        
-        return slow;
+        return -1;
     }
 };
