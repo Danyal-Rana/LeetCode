@@ -2,22 +2,20 @@ class Solution {
 public:
     int lengthOfLastWord(string s)
     {
-        int myLetters = 0;
-        int myChecker = 0;
-
-        for (int i=s.size()-1; i>=0; i--)
+        int i = s.size()-1;
+        
+        while (i>=0 and s[i]==' ')
         {
-            if (s[i] == ' ' && myChecker == 1)
-            {
-                break;
-            }
-
-            if (s[i] != ' ')
-            {
-                myLetters++;
-                myChecker = 1;
-            }
+            i--;
         }
-        return myLetters;
+        
+        int endingIndex = i;
+        
+        while (i>=0 and s[i]!=' ')
+        {
+            i--;
+        }
+        
+        return endingIndex-i;
     }
 };
