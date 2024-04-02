@@ -1,24 +1,30 @@
 class Solution {
 public:
-
-    int exp(string s,int i ,int j ){
-        int cnt = 0;
-        while(i>=0 && j<s.length() && s[i]==s[j]){
-            cnt++;
-            i--;
-            j++;
+    
+    int helper(string s, int left, int right)
+    {
+        int ans = 0;
+        while (left>=0 && right<s.size() && s[left]==s[right])
+        {
+            ans++;
+            left--;
+            right++;
         }
-        return cnt;
+        return ans;
     }
-    int countSubstrings(string s) {
-        int cnt = 0;
-        int n = s.length();
-        for(int i = 0;i<n;i++){
-            int oddans = exp(s,i,i);
-            cnt = cnt + oddans;
-            int evnans = exp(s,i,i+1);
-            cnt = cnt + evnans;
+    
+    int countSubstrings(string s)
+    {
+        int myAns = 0;
+        int n = s.size();
+        
+        for (int i=0; i<n; i++)
+        {
+            int oddAns = helper(s, i, i);
+            int evenAns = helper(s, i, i+1);
+            myAns += oddAns + evenAns;
         }
-        return cnt;
+        
+        return myAns;
     }
 };
