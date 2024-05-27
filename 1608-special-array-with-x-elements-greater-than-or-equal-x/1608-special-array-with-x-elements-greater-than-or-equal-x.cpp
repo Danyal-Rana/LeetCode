@@ -10,15 +10,11 @@ public:
         {
             int myCounter = 0;
             
-            for (int j=n-1; j>=0; j--)
+            for (auto num : nums)
             {
-                if (nums[j] >= i)
+                if (num >= i)
                 {
                     myCounter++;
-                }
-                else
-                {
-                    break;
                 }
             }
             if (myCounter == i)
