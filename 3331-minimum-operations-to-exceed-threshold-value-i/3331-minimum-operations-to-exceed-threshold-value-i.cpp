@@ -7,8 +7,6 @@ public:
         int left = 0;
         int right = nums.size()-1;
 
-        int ans = -1;
-
         while (left < right)
         {
             int mid = (left+right)/2;
@@ -17,11 +15,12 @@ public:
             {
                 right = mid;
             }
-            else 
+            else
             {
                 left = mid+1;
             }
+            
         }
         return left;
-    }
+    };
 };
