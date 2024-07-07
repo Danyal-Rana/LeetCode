@@ -43,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/Danyal-Rana/LeetCode/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/Danyal-Rana/LeetCode/tree/master/2645-pass-the-pillow) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Danyal-Rana/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/Danyal-Rana/LeetCode/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/Danyal-Rana/LeetCode/tree/master/2645-pass-the-pillow) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Danyal-Rana/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 <!---LeetCode Topics End-->
