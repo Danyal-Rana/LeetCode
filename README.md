@@ -64,10 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0445-add-two-numbers-ii](https://github.com/Danyal-Rana/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Danyal-Rana/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Math
 |  |
 | ------- |
+| [0445-add-two-numbers-ii](https://github.com/Danyal-Rana/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1119-robot-bounded-in-circle](https://github.com/Danyal-Rana/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1642-water-bottles](https://github.com/Danyal-Rana/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Danyal-Rana/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0445-add-two-numbers-ii](https://github.com/Danyal-Rana/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0726-number-of-atoms](https://github.com/Danyal-Rana/LeetCode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Danyal-Rana/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Danyal-Rana/LeetCode/tree/master/1720-crawler-log-folder) |
