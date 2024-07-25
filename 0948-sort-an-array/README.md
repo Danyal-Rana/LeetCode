@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/sort-an-array/">948. Sort an Array</a></h2><h3>Medium</h3><hr><p>Given an array of integers <code>nums</code>, sort the array in ascending order and return it.</p>
+<h2><a href="https://leetcode.com/problems/sort-an-array">948. Sort an Array</a></h2><h3>Medium</h3><hr><p>Given an array of integers <code>nums</code>, sort the array in ascending order and return it.</p>
 
 <p>You must solve the problem <strong>without using any built-in</strong> functions in <code>O(nlog(n))</code> time complexity and with the smallest space complexity possible.</p>
 
