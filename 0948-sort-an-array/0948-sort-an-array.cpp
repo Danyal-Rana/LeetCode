@@ -18,9 +18,8 @@ public:
         {
             while (myMap[j] > 0)
             {
-                nums[i] = j;
+                nums[i++] = j;
                 myMap[j]--;
-                i++;
             }
         }
 
