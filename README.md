@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Danyal-Rana/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0726-number-of-atoms](https://github.com/Danyal-Rana/LeetCode/tree/master/0726-number-of-atoms) |
 | [1119-robot-bounded-in-circle](https://github.com/Danyal-Rana/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Danyal-Rana/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
