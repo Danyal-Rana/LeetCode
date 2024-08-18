@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/Danyal-Rana/LeetCode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Danyal-Rana/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Danyal-Rana/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0445-add-two-numbers-ii](https://github.com/Danyal-Rana/LeetCode/tree/master/0445-add-two-numbers-ii) |
