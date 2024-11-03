@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Danyal-Rana/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Danyal-Rana/LeetCode/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/Danyal-Rana/LeetCode/tree/master/0726-number-of-atoms) |
+| [0812-rotate-string](https://github.com/Danyal-Rana/LeetCode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Danyal-Rana/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Danyal-Rana/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1119-robot-bounded-in-circle](https://github.com/Danyal-Rana/LeetCode/tree/master/1119-robot-bounded-in-circle) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Danyal-Rana/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/Danyal-Rana/LeetCode/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
