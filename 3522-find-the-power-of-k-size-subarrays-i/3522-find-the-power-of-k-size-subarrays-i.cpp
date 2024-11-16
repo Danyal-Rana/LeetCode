@@ -1,31 +1,56 @@
 class Solution {
 public:
-    vector<int> resultsArray(vector<int>& nums, int k) 
+    vector<int> resultsArray(vector<int>& nums, int k)
     {
-        vector<int> results;
         int n = nums.size();
+        vector<int> ans (n-k+1, -1);
 
-        for (int i = 0; i <= n - k; i++) 
+        // count of consecutive elements
+        int count = 1;
+
+        // pre-processing first sliding window
+        for (int i=1; i<k; i++)
         {
-            bool isConsecutive = true;
-            for (int j = i; j < i + k - 1; j++) 
+            if (nums[i-1]==nums[i]-1)
             {
-                if (nums[j] + 1 != nums[j + 1]) 
-                {
-                    isConsecutive = false;
-                    break;
-                }
+                count++;
             }
-            if (isConsecutive) 
+            else
             {
-                results.push_back(*max_element(nums.begin() + i, nums.begin() + i + k));
-            } 
-            else 
-            {
-                results.push_back(-1);
+                count = 1;
             }
         }
 
-        return results;
+        if (count >= k)
+        {
+            ans[0] = nums[k-1];
+        }
+
+
+        // now sliding and updating answer
+        int i = 1;
+        int j = k;
+
+        while (j<n)
+        {
+            if (nums[j-1]==nums[j]-1)
+            {
+                count++;
+            }
+            else
+            {
+                count = 1;
+            }
+
+            if (count >= k)
+            {
+                ans[i] = nums[j];
+            }
+
+            i++;
+            j++;
+        }
+
+        return ans;
     }
 };
