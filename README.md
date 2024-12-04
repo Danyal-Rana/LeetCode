@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Danyal-Rana/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Danyal-Rana/LeetCode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Danyal-Rana/LeetCode/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Danyal-Rana/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Danyal-Rana/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Danyal-Rana/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Danyal-Rana/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Danyal-Rana/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0392-is-subsequence](https://github.com/Danyal-Rana/LeetCode/tree/master/0392-is-subsequence) |
 | [0539-minimum-time-difference](https://github.com/Danyal-Rana/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Danyal-Rana/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Danyal-Rana/LeetCode/tree/master/0567-permutation-in-string) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Danyal-Rana/LeetCode/tree/master/0118-pascals-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Danyal-Rana/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Danyal-Rana/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0392-is-subsequence](https://github.com/Danyal-Rana/LeetCode/tree/master/0392-is-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/Danyal-Rana/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Danyal-Rana/LeetCode/tree/master/0664-strange-printer) |
 | [1013-fibonacci-number](https://github.com/Danyal-Rana/LeetCode/tree/master/1013-fibonacci-number) |
