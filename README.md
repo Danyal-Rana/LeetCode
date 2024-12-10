@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Danyal-Rana/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0118-pascals-triangle](https://github.com/Danyal-Rana/LeetCode/tree/master/0118-pascals-triangle) |
 | [0179-largest-number](https://github.com/Danyal-Rana/LeetCode/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/Danyal-Rana/LeetCode/tree/master/0204-count-primes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Danyal-Rana/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/Danyal-Rana/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Danyal-Rana/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Danyal-Rana/LeetCode/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/Danyal-Rana/LeetCode/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Danyal-Rana/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/Danyal-Rana/LeetCode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Danyal-Rana/LeetCode/tree/master/0264-ugly-number-ii) |
@@ -675,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Danyal-Rana/LeetCode/tree/master/0204-count-primes) |
 | [2716-prime-subtraction-operation](https://github.com/Danyal-Rana/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Danyal-Rana/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Brainteaser
@@ -732,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Danyal-Rana/LeetCode/tree/master/0204-count-primes) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Danyal-Rana/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Monotonic Queue
 |  |
