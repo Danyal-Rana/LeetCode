@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Danyal-Rana/LeetCode/tree/master/0204-count-primes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Danyal-Rana/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/Danyal-Rana/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0587-erect-the-fence](https://github.com/Danyal-Rana/LeetCode/tree/master/0587-erect-the-fence) |
 | [0624-maximum-distance-in-arrays](https://github.com/Danyal-Rana/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Danyal-Rana/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Danyal-Rana/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Danyal-Rana/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0539-minimum-time-difference](https://github.com/Danyal-Rana/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Danyal-Rana/LeetCode/tree/master/0564-find-the-closest-palindrome) |
+| [0587-erect-the-fence](https://github.com/Danyal-Rana/LeetCode/tree/master/0587-erect-the-fence) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Danyal-Rana/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/Danyal-Rana/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/Danyal-Rana/LeetCode/tree/master/0670-maximum-swap) |
@@ -749,4 +751,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/Danyal-Rana/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
+## Geometry
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/Danyal-Rana/LeetCode/tree/master/0587-erect-the-fence) |
 <!---LeetCode Topics End-->
