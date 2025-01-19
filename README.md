@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Danyal-Rana/LeetCode/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/Danyal-Rana/LeetCode/tree/master/0204-count-primes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Danyal-Rana/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/Danyal-Rana/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/Danyal-Rana/LeetCode/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/Danyal-Rana/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0587-erect-the-fence](https://github.com/Danyal-Rana/LeetCode/tree/master/0587-erect-the-fence) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Danyal-Rana/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/Danyal-Rana/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/Danyal-Rana/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Danyal-Rana/LeetCode/tree/master/0921-spiral-matrix-iii) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Danyal-Rana/LeetCode/tree/master/0101-symmetric-tree) |
+| [0407-trapping-rain-water-ii](https://github.com/Danyal-Rana/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Danyal-Rana/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Danyal-Rana/LeetCode/tree/master/0547-number-of-provinces) |
 | [0787-sliding-puzzle](https://github.com/Danyal-Rana/LeetCode/tree/master/0787-sliding-puzzle) |
@@ -645,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Danyal-Rana/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/Danyal-Rana/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Danyal-Rana/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Danyal-Rana/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Danyal-Rana/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
