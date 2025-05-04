@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Danyal-Rana/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0118-pascals-triangle](https://github.com/Danyal-Rana/LeetCode/tree/master/0118-pascals-triangle) |
+| [0149-max-points-on-a-line](https://github.com/Danyal-Rana/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0179-largest-number](https://github.com/Danyal-Rana/LeetCode/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/Danyal-Rana/LeetCode/tree/master/0204-count-primes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Danyal-Rana/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/Danyal-Rana/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0264-ugly-number-ii](https://github.com/Danyal-Rana/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Danyal-Rana/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0432-all-oone-data-structure](https://github.com/Danyal-Rana/LeetCode/tree/master/0432-all-oone-data-structure) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Danyal-Rana/LeetCode/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/Danyal-Rana/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0204-count-primes](https://github.com/Danyal-Rana/LeetCode/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Danyal-Rana/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/Danyal-Rana/LeetCode/tree/master/0263-ugly-number) |
@@ -938,5 +941,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/Danyal-Rana/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0587-erect-the-fence](https://github.com/Danyal-Rana/LeetCode/tree/master/0587-erect-the-fence) |
 <!---LeetCode Topics End-->
