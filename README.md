@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Danyal-Rana/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Danyal-Rana/LeetCode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Danyal-Rana/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0204-count-primes](https://github.com/Danyal-Rana/LeetCode/tree/master/0204-count-primes) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Danyal-Rana/LeetCode/tree/master/0050-powx-n) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Danyal-Rana/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Danyal-Rana/LeetCode/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/Danyal-Rana/LeetCode/tree/master/1013-fibonacci-number) |
