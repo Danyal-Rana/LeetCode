@@ -1,22 +1,28 @@
 class Solution {
 public:
+    double helper(double &x, int n)
+    {
+        if(n==0)
+        {
+            return 1;
+        }
+        if (n==1)
+        {
+            return x;
+        }
+
+        double half = helper(x, n/2);
+
+        return half * half * (n%2==0 ? 1 : x); 
+    }
     double myPow(double x, int n)
     {
-        double myResult = 1;
-        
-        int m = abs(n);
-        
-        while (m > 0)
+        double ans = helper(x, n);
+        if (n < 0)
         {
-            if (m%2 != 0)
-            {
-                myResult *= x;
-            }
-            
-            x *= x;
-            m /= 2;
+            ans = 1/ans;
         }
-        
-        return (n>0) ? myResult : 1/myResult;
+
+        return ans;
     }
 };
